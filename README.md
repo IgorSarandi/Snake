@@ -12,7 +12,7 @@ Program created with used OOP and patterns.
 * D - snake moves right
 * Esc - exit
 
-Snake also can go throught the borders of map. 
+Snake also can go through the borders of map. 
 In this case, snake will be on the reverse side.
 
 ## License
