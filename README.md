@@ -1,6 +1,6 @@
 # Snake
 Its a simple console game, where you control snake.
-You must feed snake with fruits and she grop up.
+You must feed snake with fruits and she grow up.
 Beware to run into walls or yourself body.
 Game target is survive as soon as you can.
 Program created with used OOP and patterns.
