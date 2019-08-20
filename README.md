@@ -13,7 +13,7 @@ Program created with used OOP and patterns.
 * Esc - exit
 
 Snake also can go throught the borders of map. 
-In this case, shake will be on the reverse side.
+In this case, snake will be on the reverse side.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
